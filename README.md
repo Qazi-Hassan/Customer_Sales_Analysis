@@ -38,6 +38,19 @@ The analysis utilizes the `Superstore_Sales_dataset.csv`, which contains transac
 - `Customer_Sales_Analysis.ipynb`: Jupyter Notebook containing the data analysis and visualizations.
 - `Superstore_Sales_dataset.csv`: Dataset used for analysis.
 
+ ## Results
+The analysis provides insights into:
+
+Sales Trends: Monthly and yearly sales performance.
+
+Top Products: Best-selling products and categories.
+
+Customer Segmentation: Identifying key customer segments based on purchasing behavior.
+
+Profitability Analysis: Understanding profit margins across different products and regions.
+
+
+
 ## Installation
 
 To run this project locally, follow these steps:
